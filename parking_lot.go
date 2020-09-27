@@ -14,4 +14,7 @@ func main() {
 		return
 
 	}
+	//if input given from command
+	controllers.ReadDataFromCommandPrompt()
+	return
 }
